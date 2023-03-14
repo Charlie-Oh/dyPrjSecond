@@ -22,7 +22,7 @@
 	}
 // 		alert("세션 설정이 실패했습니다.");
 %><br>
-<!-- <a href="14_01_session02.jsp">세션 확인하기</a> -->
-<a href="14_01_session03.jsp">세션 확인하기</a>
+<a href="14_01_session02.jsp">세션 확인하기</a>
+<!-- <a href="14_01_session03.jsp">세션 확인하기</a> -->
 </body>
 </html>
